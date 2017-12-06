@@ -7,7 +7,7 @@ var _WM_APP_PROPERTIES = {
   "name" : "pageRename",
   "platformType" : "WEB",
   "securityEnabled" : "false",
-  "supportedLanguages" : "en",
+  "supportedLanguages" : "en,am",
   "timeFormat" : "",
   "type" : "APPLICATION",
   "version" : "1.0"

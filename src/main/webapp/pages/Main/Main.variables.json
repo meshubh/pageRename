@@ -1,1 +1,15 @@
-{ }
+{
+  "testModel" : {
+    "_id" : "wm-testModel-wm.Variable-1511936801613",
+    "name" : "testModel",
+    "owner" : "Page",
+    "category" : "wm.Variable",
+    "dataBinding" : [ ],
+    "dataSet" : {
+      "dataValue" : "asqweq"
+    },
+    "type" : "string",
+    "isList" : false,
+    "saveInPhonegap" : false
+  }
+}
